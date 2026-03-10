@@ -34,6 +34,8 @@ Como um profissional de dados e infra, o projeto resolveu problemas reais de dep
 *   **Security Incident Response**: Rotação imediata de credenciais de segurança e limpeza de histórico após detecção de vazamento por *Secret Scanning*.
 *   **Modularization**: Separação total entre a camada de apresentação (GitHub Pages) e a camada de inteligência (Cloudflare).
 
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-222222?style=for-the-badge&logo=github&logoColor=white)](https://rilen.github.io/portfolio/)
+
 ---
 *Projetado por Rilen Tavares Lima — Transformando 25 anos de infraestrutura sólida em serviços inteligentes e resilientes.*
 
