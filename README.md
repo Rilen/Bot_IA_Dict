@@ -1,5 +1,21 @@
 # 🤖 Nelir AI Engine - Atendimento Inteligente no Edge
 
+<div align="center">
+    <img src="./BotIADict.png" alt="Banner do Projeto" width="40%" style="max-width:800px;">
+    <br><br>
+    <a href="https://rilen.github.io/portfolio/">
+        <img src="https://img.shields.io/badge/Demo%20ao%20Vivo-222222?style=for-the-badge&logo=github&logoColor=white" alt="Demo">
+    </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Runtime-Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
+  <img src="https://img.shields.io/badge/AI_Engine-Gemini_1.5_Flash-4285F4?style=flat&logo=google-gemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/OS-GNU%2FLinux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Security-CORS_Hardened-00B31D?style=flat&logo=dependabot&logoColor=white" alt="Security">
+</div>
+<br>
+
 O **Nelir** (Rilen ao contrário) é um motor de IA conversacional de nível sênior, projetado para atuar como um orquestrador de conhecimento no Edge. Ele não é apenas um chatbot, mas uma implementação de **Serverless AI Architecture** que une processamento de linguagem natural (LLM) com infraestrutura resiliente.
 
 ## 🚀 Evolução & Maturidade do Projeto
@@ -34,7 +50,6 @@ Como um profissional de dados e infra, o projeto resolveu problemas reais de dep
 *   **Security Incident Response**: Rotação imediata de credenciais de segurança e limpeza de histórico após detecção de vazamento por *Secret Scanning*.
 *   **Modularization**: Separação total entre a camada de apresentação (GitHub Pages) e a camada de inteligência (Cloudflare).
 
-[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-222222?style=for-the-badge&logo=github&logoColor=white)](https://rilen.github.io/portfolio/)
 
 ---
 *Projetado por Rilen Tavares Lima — Transformando 25 anos de infraestrutura sólida em serviços inteligentes e resilientes.*
