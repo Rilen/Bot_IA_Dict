@@ -1,4 +1,8 @@
-# 🤖 Nelir AI Engine - Atendimento Inteligente no Edge
+# 🔩 BOT o autômato? Nada disso! Aqui é muito mais que isso:
+
+## É Aprendizado Dirigido + Orquestração de LLMs rodando direto no Edge Computing!
+
+### 🤖 Nelir AI Engine - Atendimento Inteligente para meu Portfólio.
 
 <div align="center">
     <img src="./BotIADict.png" alt="Banner do Projeto" width="40%" style="max-width:800px;">
@@ -11,8 +15,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Runtime-Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
   <img src="https://img.shields.io/badge/AI_Engine-Gemini_1.5_Flash-4285F4?style=flat&logo=google-gemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/OS-GNU%2FLinux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/OS-GNU%2FLinux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"></p>
   <img src="https://img.shields.io/badge/Security-CORS_Hardened-00B31D?style=flat&logo=dependabot&logoColor=white" alt="Security">
+    <img src="https://img.shields.io/badge/System_Dict-Logic_Override-7B42BC?style=flat&logo=probot&logoColor=white" alt="System Logic">
+    <img src="https://img.shields.io/badge/System_Dict-Archive_Core-444444?style=flat&logo=gitbook&logoColor=white" alt="Archive Dict"></p>
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/LLM-Neural-BFD21E?style=flat&logo=huggingface&logoColor=black" alt="LLM Hugging Face">
+</p>
 </div>
 <br>
 
@@ -50,9 +59,5 @@ Como um profissional de dados e infra, o projeto resolveu problemas reais de dep
 *   **Security Incident Response**: Rotação imediata de credenciais de segurança e limpeza de histórico após detecção de vazamento por *Secret Scanning*.
 *   **Modularization**: Separação total entre a camada de apresentação (GitHub Pages) e a camada de inteligência (Cloudflare).
 
-
 ---
-*Projetado por Rilen Tavares Lima — Transformando 25 anos de infraestrutura sólida em serviços inteligentes e resilientes.*
-
----
-*Desenvolvido por Rilen Tavares Lima — 25 anos transformando infraestrutura em valor.*
+*Transformando 25 anos de infraestrutura sólida em serviços inteligentes e resilientes.*
